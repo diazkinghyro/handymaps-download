@@ -1,1 +1,14 @@
-
+{
+  "public_access": "TEST",
+  "device_access": "TEST"
+}
+{
+  "package_name": "com.abc.one",
+  "size": "7481410",
+  "sha1": "226712a6cf86a5d024ab32c0d27bdcf22392273a"
+}
+{
+  "package_name": "com.abc.two",
+  "size": "7481411",
+  "sha1": "226712a6cf86a5d024ab32c0d27bdcf22392273b"
+}
