@@ -1,5 +1,7 @@
 {
-  "public_access": "TEST",
+  "public_access": "TEST"
+}
+{
   "device_access": "TEST"
 }
 {
